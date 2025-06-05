@@ -1,6 +1,6 @@
-# PUCRS - Projeto Fundamentos Sistemas Web - fase 01
+# PUCRS - Projeto Fundamentos Sistemas Web 
 
-Repositório com os códigos da Atividade04
+Repositório com os códigos do Projeto FASE 01
 
 Repositório:
 ```
